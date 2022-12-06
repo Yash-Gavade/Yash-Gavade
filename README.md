@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yash Gavade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwild1066&label=Profile%20views&color=0e75b6&style=flat" alt="redwild1066" /> </p>
