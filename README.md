@@ -19,7 +19,7 @@
 
 - 📄 About my experiences (**2 years**) in Coding
 
-- ⚡ Fun fact **I Dont know Any Coding languages 😉**
+- ⚡ Fun fact is **Im Too Funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
