@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yash Gavade</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">A Passionate Engineer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwild1066&label=Profile%20views&color=0e75b6&style=flat" alt="redwild1066" /> </p>
@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on **Mern E-Commerce**
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Machine Learning and Python**
 
 - 👯 I’m looking to collaborate on **AI**
 
-- 🤝 I’m looking for **Best Project**
+- 🤝 I’m looking for **Best Mentor **
 
 - 💬 Ask me about Coding Languages **Anything**
-
-- 📫 How to reach me **yashgavade2@gmail.com**
 
 - 📄 Know about my experiences (2 years)
 
