@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **Mern E-Commerce**
 
-- 🌱 I’m currently learning **Machine Learning and Python**
+- 🌱 I’m currently learning **Machine Learning & Python**
 
-- 👯 I’m looking to collaborate on **AI**
+- 👯 I’m looking to collaborate on **AI & ML**
 
 - 🤝 I’m looking for **Best Mentor **
 
 - 💬 Ask me about Coding Languages **Anything**
 
-- 📄 Know about my experiences (2 years)
+- 📄 About my experiences (**2 years**) in Coding
 
 - ⚡ Fun fact **I Dont know Any Coding languages 😉**
 
