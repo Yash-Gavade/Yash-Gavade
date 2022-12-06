@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **AI & ML**
 
-- 🤝 I’m looking for **Best Mentor **
+- 🤝 I’m looking for **Best Mentor**
 
 - 💬 Ask me about Coding Languages **Anything**
 
