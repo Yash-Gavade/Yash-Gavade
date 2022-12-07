@@ -1,4 +1,4 @@
-![Screenshot (352)](https://user-images.githubusercontent.com/74112721/206111251-a1aa906a-6f37-46cb-b795-4f93bcfaac91.png)
+![Screenshot (353)](https://user-images.githubusercontent.com/74112721/206111877-2c89ff9c-e032-4d4e-9cc3-f62ec4c200ad.png)
 
 <h1 align="center">Hi 👋, I'm Yash Gavade</h1>
 <h3 align="center">A Passionate Engineer from India</h3>
