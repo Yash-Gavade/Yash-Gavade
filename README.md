@@ -12,13 +12,11 @@
 
 - 🌱 I’m currently learning **Machine Learning & Python**
 
-- 👯 I’m looking to collaborate on **AI & ML**
+- 👯 I’m looking to collaborate on **AI , ML & Web Development**
 
-- 🤝 I’m looking for **Best Mentor**
+- 🤝 I’m looking for **Mentor**
 
-- 💬 Ask me about Coding Languages **Anything**
-
-- 📄 About my experiences (**2 years**) in Coding
+- 📄 About my experiences (**3 years**) in Coding
 
 - ⚡ Fun fact is **Im Too Funny 😅**<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
