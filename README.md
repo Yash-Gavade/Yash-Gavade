@@ -27,8 +27,3 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=redwild1066&show_icons=true&locale=en&layout=compact" alt="redwild1066" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redwild1066&show_icons=true&locale=en" alt="redwild1066" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redwild1066&" alt="redwild1066" /></p>
