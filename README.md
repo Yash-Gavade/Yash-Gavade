@@ -1,22 +1,16 @@
-![Screenshot (355)](https://user-images.githubusercontent.com/74112721/206112188-1d490616-6e07-436a-8330-66b211d0b801.png)
-
 <h1 align="center">Hi 👋, I'm Yash Gavade</h1>
-<h3 align="center">A Passionate Engineer from India</h3>
+<h3 align="center">A Passionate Engineer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwild1066&label=Profile%20views&color=0e75b6&style=flat" alt="redwild1066" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redwild1066" alt="redwild1066" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analytics**
 
 - 🌱 I’m currently learning **Machine Learning & Python**
 
-- 👯 I’m looking to collaborate on **AI , ML & Web Development**
-
 - 🤝 I’m looking for **Mentor**
 
-- 📄 About my experiences (**3 years**) in Coding
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
