@@ -1,16 +1,17 @@
 <div align="center">
-<h1 align="center">👋🏻 Hello World! I'm Yash Gavade </h1>
-<h4 align="center"> 🎓 I'm currently diving deep into the fascinating world of Data Visualization and sharpening my programming skills. As a passionate learner and tech enthusiast, I'm always on the lookout for exciting internship opportunities to gain hands-on experience and contribute to impactful projects 🚀. I have a solid foundation in web development and a love for solving problems using Python, Java, and data manipulation tools. 
+<h1 align="center">👋🏻 Hello, I'm Yash Gavade </h1>
+<h4 align="center">
+🎓 I am a dedicated and passionate **Data Analyst** with a strong foundation in **data manipulation**, **visualization**, and **analysis**. Currently honing my skills in **Data Science**, I am eager to apply my knowledge to real-world problems and make data-driven decisions. With a background in **web development** and programming, I thrive on solving complex challenges and uncovering insights through data exploration and modeling.
 
-🌱 When I'm not coding, I enjoy discovering the latest advancements in technology and exploring new challenges that push my skills further. 
+🌱 I am actively seeking opportunities to apply my expertise in **Python**, **SQL**, **Data Visualization**, and **Machine Learning** in roles such as **Data Analyst**, **Business Analyst**, or **Data Scientist**. I am constantly learning new techniques to elevate my skills and keep up with industry trends. 
 
-🤝 Let's connect and collaborate on innovative projects, and feel free to explore my GitHub to see my ongoing journey! ✨
+🤝 Let's connect to collaborate on data-centric projects or explore exciting opportunities. Feel free to browse my GitHub repositories, where I document my projects and learning journey! 🚀
 </h4>
 </div>
 
 <div>
   <samp>
-    <h2 align="center">Reach me via</h2>
+    <h2 align="center">Connect with me</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/yash-gavade/" target="blank"><img align="center"
@@ -40,16 +41,42 @@
 </div>
 
 <div>
-  <h3 align="left">💻 Languages and Tools:</h3>
+  <h3 align="left">💻 Tools and Technologies:</h3>
   <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
     </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+    </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+    </a>
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="SQL Server" width="40" height="40"/>
+    </a>
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
+    </a>
+    <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+    </a>
+  </p>
+</div>
+
+<img align="right" alt="data analysis" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
