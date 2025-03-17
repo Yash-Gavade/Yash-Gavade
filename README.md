@@ -1,9 +1,9 @@
 <div align="center">
 <h1 align="center">👋🏻 Hello, I'm Yash Gavade </h1>
 <h4 align="center">
-🎓 I am a dedicated and passionate **Data Analyst** with a strong foundation in ****data manipulatio**n**, **visualization**, and **analysis**. Currently honing my skills in **Data Science**, I am eager to apply my knowledge to real-world problems and make data-driven decisions. With a background in **web development** and programming, I thrive on solving complex challenges and uncovering insights through data exploration and modeling.
+🎓 I am a dedicated and passionate **Data Analyst** with a strong foundation in data manipulation, visualization, and analysis. Currently honing my skills in **Data Science**, I am eager to apply my knowledge to real-world problems and make data-driven decisions. With a background in web development and programming, I thrive on solving complex challenges and uncovering insights through data exploration and modeling.
 
-🌱 I am actively seeking opportunities to apply my expertise in **Python**, **SQL**, **Data Visualization**, and **Machine Learning** in roles such as **Data Analyst**, **Business Analyst**, or **Data Scientist**. I am constantly learning new techniques to elevate my skills and keep up with industry trends. 
+🌱 I am actively seeking opportunities to apply my expertise in Python, SQL, Data Visualization, and Machine Learning in roles such as Data Analyst, Business Analyst, or Data Scientist. I am constantly learning new techniques to elevate my skills and keep up with industry trends. 
 
 🤝 Let's connect to collaborate on data-centric projects or explore exciting opportunities. Feel free to browse my GitHub repositories, where I document my projects and learning journey! 🚀
 </h4>
