@@ -24,19 +24,25 @@
   </samp>
 </div>
 
-<div>
+<div align="center">
   <h2 align="center"> 🚀 Github Stats </h2>
-    <br/>
-      <p align="center">
-        <a href="https://github.com/Yash-Gavade">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Gavade&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Yash Gavade :: Top Langs" /></a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Yash-Gavade">
-        <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Yash-Gavade&show_icons=true&theme=gruvbox&hide_border=true" />
-        <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Gavade&theme=gruvbox&hide_border=true" />
-        </a>
-     </p>
+  <div style="display: flex; align-items: center; justify-content: center;">
+      <div>
+        <p align="center">
+          <a href="https://github.com/Yash-Gavade">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Gavade&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Yash Gavade :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/Yash-Gavade">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Yash-Gavade&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Gavade&theme=gruvbox&hide_border=true" />
+          </a>
+        </p>
+      </div>
+      <div>
+        <img align="right" alt="data analysis" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+      </div>
+   </div>
    <br>
 </div>
 
@@ -68,8 +74,5 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     </a>
 
-
   </p>
 </div>
-
-<img align="right" alt="data analysis" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
